@@ -1,0 +1,1 @@
+python batch_zip_files_cracker.py -s "C:\Users\Lenovo\Desktop\batch_zip_files_cracker\source" -p important -t "C:\Users\Lenovo\Desktop\batch_zip_files_cracker\target" -d "C:\Users\Lenovo\Desktop\batch_zip_files_cracker\password_dictionary"
